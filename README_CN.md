@@ -329,9 +329,14 @@ OXR 采用 [OXR Open Source License](./LICENSE)，基于 Apache 2.0 的自定义
 
 - [Discord](https://discord.gg/msCPj2AtNN) — 交流 OXR 使用经验、讨论技术问题，分享你正在做的项目。
 - [X / Twitter](https://x.com/somarkai) — 关注 OXR 版本发布与 SoMark 最新动态。
+- [LinkedIn](https://www.linkedin.com/company/somarkai/posts/?feedView=all) — 关注 SoMark 公司动态与产品更新。
 - [GitHub Issues](https://github.com/SoMarkAI/OXR/issues) — 提交问题、提出功能建议，跟进处理进展。
-- **微信** — 扫描下方二维码，加入 OXR 微信交流群，与其他用户交流实践心得。
+- **微信** — 扫描下方二维码，关注 SoMark 微信公众号，或加入 OXR 微信交流群，与其他用户交流实践心得。
 
-<p>
-  <img src="./assets/wechat-community.png" alt="OXR 微信交流群二维码" width="200" />
-</p>
+<div align="center">
+
+| 微信公众号 | 微信交流群 |
+| :---: | :---: |
+| <img src="./assets/wechat-account.jpg" alt="SoMark 微信公众号二维码" width="200" /> | <img src="./assets/wechat-community.png" alt="OXR 微信交流群二维码" width="200" /> |
+
+</div>

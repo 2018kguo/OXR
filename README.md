@@ -330,9 +330,14 @@ Join the OXR community to discuss document parsing, share feedback, and keep up 
 
 - [Discord](https://discord.gg/msCPj2AtNN) — Discuss OXR, exchange tips, and share what you're building.
 - [X / Twitter](https://x.com/somarkai) — Keep up with OXR releases and news from SoMark.
+- [LinkedIn](https://www.linkedin.com/company/somarkai/posts/?feedView=all) — Follow SoMark for company news and product updates.
 - [GitHub Issues](https://github.com/SoMarkAI/OXR/issues) — Report bugs, suggest features, and track progress.
-- **WeChat** — Scan the QR code below to join the OXR group and exchange ideas with other users.
+- **WeChat** — Scan the QR codes below to follow the SoMark official account or join the OXR group and exchange ideas with other users.
 
-<p>
-  <img src="./assets/wechat-community.png" alt="QR code for the OXR WeChat group" width="200" />
-</p>
+<div align="center">
+
+| WeChat Official Account | WeChat Group |
+| :---: | :---: |
+| <img src="./assets/wechat-account.jpg" alt="QR code for the SoMark WeChat official account" width="200" /> | <img src="./assets/wechat-community.png" alt="QR code for the OXR WeChat group" width="200" /> |
+
+</div>
